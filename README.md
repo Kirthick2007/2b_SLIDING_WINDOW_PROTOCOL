@@ -8,14 +8,14 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-Developed by : DARIO G
+Developed by : KIRTHICK SHA R
 
-Reg no : 212222230027
+Reg no : 212224230124
 
 
 Client.py
 
-```
+```py
 
 import socket
 from datetime import datetime
@@ -40,7 +40,7 @@ c.close()
 
 
 Server.py
-```
+```py
 
 import socket 
 s=socket.socket() 
